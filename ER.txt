@@ -1,0 +1,7 @@
+﻿Expressões Regulares:
+        ID => [a-zA-Z][A-Za-z0-9]*
+        INTEIRO => [0-9]+
+        REAL => [0-9]+\.[0-9]+
+        CARACTERE => [a-zA-Z]+
+LÓGICO => [verdadeiro | falso | 0 | 1]
+CONST =>  [INTEIRO | REAL | CARACTERE | LÓGICO]
